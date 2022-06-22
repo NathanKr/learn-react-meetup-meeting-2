@@ -1,0 +1,17 @@
+[
+    {
+      "firstName": "Barack",
+      "lastName": "Obama",
+      "age": 60
+    },
+    {
+      "firstName": "Jimmy",
+      "lastName": "Carter",
+      "age": 97
+    },
+    {
+      "firstName": "Isaac",
+      "lastName": "Herzog",
+      "age": 61
+    }
+  ]
